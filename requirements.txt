@@ -1,0 +1,6 @@
+numpy>=2.5
+pycryptodome>=3.23
+kyber-py>=1.2
+matplotlib>=3.11
+pytest>=9.1
+hypothesis>=6.165
